@@ -1,8 +1,22 @@
 # WADE-Pre: Wavelet-based Disentanglement of Advection and Intensity for Mitigating the Smoothing Effect in Extreme Precipitation Nowcasting
 
-By Baitian Liu, Haiping Zhang, and Xujian Fang*.
 
-Department of Computer Science and Technology, Hangzhou Dianzi University
+
+By Baitian Liu^1^, Haiping Zhang^1,2^, Luan Xu^3^, Ying Li^3^, Feng Chen^3^, Qing Zhang^4^, Xujian Fang^1,2^, Chonglei Zhu^2^, Hao Wu^1*^
+
+
+
+> 1. Department of Computer Science and Technology, Hangzhou Dianzi University, Hangzhou, Zhejiang  Province, China
+>
+> 2. Hangzhou Dianzi University Information Engineering College, Hangzhou, Zhejiang Province, China
+>
+> 3. Zhejiang Institute of Meteorological Sciences, Hangzhou, Zhejiang Province, China
+>
+> 4. Zhejiang Province Meteorological Bureau, Hangzhou, Zhejiang Province, China
+>
+> \*Corresponding author: Xujian Fang
+
+
 
 
 
@@ -14,9 +28,7 @@ Department of Computer Science and Technology, Hangzhou Dianzi University
 
 
 
-> *Corresponding author: Xujian Fang
-
-> Last updated: Nov 26 / 2025
+> Last updated: Dec 2. 2025
 
 
 
